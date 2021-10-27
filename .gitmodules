@@ -1,0 +1,3 @@
+[submodule "example-1/simpleiot"]
+	path = example-1/simpleiot
+	url = https://github.com/simpleiot/simpleiot
